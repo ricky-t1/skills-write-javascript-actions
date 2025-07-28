@@ -1,0 +1,4 @@
+git add action.yml
+git commit -m 'create action.yml'
+git pull
+git push
